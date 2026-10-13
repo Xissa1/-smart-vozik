@@ -1,0 +1,1 @@
+# Zdroje o smart vozíkoch
