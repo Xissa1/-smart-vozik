@@ -1,3 +1,9 @@
+commit bea0d5bcbef404743d5e61a1c1983062537bd676
+Author: fouad <fouadko@eduroam-161-179.fiit.stuba.sk>
+Date:   Tue Oct 13 14:57:14 2026 +0200
+
+    SV-3 Abstrakt a úvod článku
+
 commit 53a505b62b1fe3052ce00518956305eb8ed43ba2
 Author: fouad <fouadko@eduroam-161-179.fiit.stuba.sk>
 Date:   Tue Oct 13 14:55:57 2026 +0200
